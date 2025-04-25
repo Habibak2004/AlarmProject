@@ -1,5 +1,5 @@
-##Notes
-#tkinter is a built-in Python library for creating GUI applications.
+## Notes
+# tkinter is a built-in Python library for creating GUI applications.
     # GUI:
     #   a type of user interface that allows users to interact with electronic devices using visual elements like icons, buttons, and menus.
 
