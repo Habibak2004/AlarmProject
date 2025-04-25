@@ -1,0 +1,15 @@
+##Notes
+#tkinter is a built-in Python library for creating GUI applications.
+    # GUI:
+    #   a type of user interface that allows users to interact with electronic devices using visual elements like icons, buttons, and menus.
+
+
+    # The alarm will ring when the current time matches the set alarm time.
+# pygame is a library for writing video games, but it can also be used for playing sound.
+# It is used here to play the alarm sound when the alarm time is reached.
+
+
+.pack(): 
+A geometry manager in tkinter.
+Responsible for organizing the widgets within their parent window. 
+places widgets in a sequence, one after the other. 
