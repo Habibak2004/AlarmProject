@@ -1,4 +1,4 @@
-# Countdown Alarm Program
+#Play Personalized Alarm Program
 
 ## Overview
 This program allows you to set an alarm for a specific time of day. Once the system time matches the set alarm time, the program will play a custom sound alarm. The alarm time can be set in **HH:MM** format, and the sound file can be provided as a path (e.g., `assets/alarmbirdsound.mp3`).
